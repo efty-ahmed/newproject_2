@@ -39,7 +39,7 @@ body {
 .logo {
   font-size: 3rem;
   color: var(--text-color);
-  font-weight: 800;
+  font-weight: 810;
   cursor: pointer;
   transition: 0.3s ease;
 }
@@ -61,7 +61,7 @@ body {
 }
 
 .navbar a:hover,
-.navbar a.avtive {
+.navbar a .avtive {
   color: var(--main-color);
   border-bottom: 3px solid var(--main-color);
 }
